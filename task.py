@@ -19,7 +19,7 @@ def correlazione_matrici(m1: list, m2: list) -> float:
     pass
 
 def operazioni_elemento_per_elemento(v1: list) -> tuple:
-    """US5: Restituisce (seno, coseno, arcoseno, arcocoseno) elemento per elemento calcolati sul primo array."""
+    """Sub-task 5: Restituisce (seno, coseno, arcoseno, arcocoseno) elemento per elemento calcolati sul primo array."""
     pass
 
 
